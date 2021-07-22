@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 50px auto;
+  background: url("../img/hatter.jpg");
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  box-shadow: 15px 15px 30px rgb(31, 31, 31);
+}
+th {
+  font-size: 20px;
+  text-align: center;
+  background-image: url("../img/fa_mintazat.jpg");
+}
+.oldal_betu {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  padding: 0px 5px;
+  background-image: url("../img/fa_mintazat2.jpg");
+}
+.feher {
+  width: 70px;
+  height: 70px;
+  background-image: url("../img/fa_mintazat_vilagos.png");
+}
+.fekete {
+  width: 70px;
+  height: 70px;
+  border-collapse: collapse;
+  background-image: url("../img/fa_mintazat.png");
+}
+td {
+  border-collapse: collapse;
+}
+img {
+  margin-left: 3px;
+}
